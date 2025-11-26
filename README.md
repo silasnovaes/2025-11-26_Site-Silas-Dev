@@ -1,2 +1,2 @@
 # 2025-11-26_Site-Silas-Dev
-Repositório do site do DEV Silas Novaes, para apresentação de portfólios, bem como ferramentas criativas, aprimoramento de designer, aprimoramento de UX/UI. As principais tecnologias usadas serão: HTML, CSS e Javascript
+Site do desenvolvedor Silas Novaes, voltado à apresentação de portfólio e demonstração de projetos. Focado em performance, boas práticas e UX/UI. Tecnologias: HTML, CSS e JavaScript.
